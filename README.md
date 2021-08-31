@@ -27,6 +27,6 @@ Javascript, HTML, CSS
 - Use of browser to debug 
 
 
-## Authors
+## Author
 
 - [@davidtcliffe](https://github.com/davidcliffe)
