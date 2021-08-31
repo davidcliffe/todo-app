@@ -24,7 +24,7 @@ Javascript, HTML, CSS
 - DOM interaction/ control 
 - JS array filtering 
 - HTML forms manipulation
-- Use of browser to debug 
+- Use of browser to debug code
 
 
 ## Author
