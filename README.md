@@ -1,9 +1,9 @@
-# A todo application
+# todo application
 
 The application allows entry of tasks that to be done - a 'todo'! The tasks are displayed in a list beneath the entry form. Also provided are the options to either complete
 each todo item or to remove it from the page. Empty todo's are not accepted and very long todo descriptions are not recommended.
 
-## Screenshots
+## Screenshot of todo app
 <img src="todo-screenshot.jpg" alt="Screenshot Missing" height="300">
 
 ## Features
