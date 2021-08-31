@@ -29,4 +29,4 @@ Javascript, HTML, CSS
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@davidtcliffe](https://github.com/davidcliffe)
