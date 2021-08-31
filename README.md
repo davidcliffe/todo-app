@@ -8,8 +8,8 @@ each todo item or to remove it from the page. Empty todo's are not accepted and 
 Insert gif or link to demo
 
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="todo-screenshot.JPG" alt="Screenshot Missing" height="300">
+<!--![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)-->
 
 
 ## Features
