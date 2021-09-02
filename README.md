@@ -4,6 +4,7 @@ The application allows entry of tasks that to be done - a 'todo'! The tasks are 
 each todo item or to remove it from the page. Empty todo's are not accepted and very long todo descriptions are not recommended.
 
 ## Screenshot of todo app
+
 <img src="todo-screenshot.jpg" alt="Screenshot Missing" height="300">
 
 ## Features
@@ -28,5 +29,4 @@ Javascript, HTML, CSS
 
 
 ## Author
-
 - [@davidtcliffe](https://github.com/davidcliffe)
